@@ -79,7 +79,7 @@ function forEachh (){
 
 function mapp (){
     const linha = x => x % 2 === 0;
-    console.log('numbers.map(isEven)', linhasDeMetro.map(linha));
+    console.log('Linhas B-C', linhasDeMetro.map(linha));
 }
 
 //Filter
